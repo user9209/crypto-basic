@@ -22,6 +22,13 @@ See:
 `I l J 1`  
 `O 0`
 
+## Avoid german and us & uk keyboard layout confusion
+
+| Symbol DE | Symbol US |
+| --------- | --------- |
+| Z & z     | Y & y     |
+| Y & y     | Z & z     |
+
 ## Special Characters - PW
 
 English and german the same, using NUM!
